@@ -1,0 +1,5 @@
+unidecode
+tensorflow
+keras-tuner
+matplotlib
+torch
